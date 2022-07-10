@@ -6,6 +6,8 @@ This dataset is gotten from https://github.com/theoyinbooke/30Days-of-Learning-D
 # Data Cleaning
 Dataset was gotten using get gat data from web and it was tranformed.
 
+<img src="https://github.com/SaobanLateefat/PlaneCrashAnalysis/blob/master/plane%20Crash.PNG>
+
 # Data insights
 
 * I got the total number of people aboard, total fatalities, total number of death and lastly total survivors
