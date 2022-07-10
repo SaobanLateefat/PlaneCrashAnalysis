@@ -6,7 +6,6 @@ This dataset is gotten from https://github.com/theoyinbooke/30Days-of-Learning-D
 # Data Cleaning
 
 Dataset was gotten using get gat data from web and it was tranformed.
----
 
 # Problem Statement
 So, I did be getting insights such as:
